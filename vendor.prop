@@ -108,7 +108,6 @@ vidc.enc.dcvs.extra-buff-count=2
 debug.media.codec2=2
 
 # Display
-debug.hwui.renderer=skiavk
 debug.sf.early_phase_offset_ns=500000
 debug.sf.early_app_phase_offset_ns=500000
 debug.sf.early_gl_app_phase_offset_ns=15000000
